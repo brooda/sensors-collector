@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "747e260e488242bd085718c4071f0f92",
+    "revision": "577b322dc1e010b07329fbda48055cea",
     "url": "/sensors-collector/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sensors-collector/static/css/2.bcb0d36b.chunk.css"
   },
   {
-    "revision": "d359a955b3d7fe168a5a",
+    "revision": "5c93a41c6320b9a82e87",
     "url": "/sensors-collector/static/css/main.5e33e3a7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sensors-collector/static/js/2.a13c790a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d359a955b3d7fe168a5a",
-    "url": "/sensors-collector/static/js/main.b82e7d4f.chunk.js"
+    "revision": "5c93a41c6320b9a82e87",
+    "url": "/sensors-collector/static/js/main.83b037a2.chunk.js"
   },
   {
     "revision": "e3917185c8b1b70997ba",
