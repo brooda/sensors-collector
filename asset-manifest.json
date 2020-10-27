@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sensors-collector/static/css/main.e4d3e429.chunk.css",
-    "main.js": "/sensors-collector/static/js/main.6a01252c.chunk.js",
-    "main.js.map": "/sensors-collector/static/js/main.6a01252c.chunk.js.map",
+    "main.js": "/sensors-collector/static/js/main.f2620253.chunk.js",
+    "main.js.map": "/sensors-collector/static/js/main.f2620253.chunk.js.map",
     "runtime-main.js": "/sensors-collector/static/js/runtime-main.4eb23adf.js",
     "runtime-main.js.map": "/sensors-collector/static/js/runtime-main.4eb23adf.js.map",
     "static/css/2.bcb0d36b.chunk.css": "/sensors-collector/static/css/2.bcb0d36b.chunk.css",
     "static/js/2.fcbee49c.chunk.js": "/sensors-collector/static/js/2.fcbee49c.chunk.js",
     "static/js/2.fcbee49c.chunk.js.map": "/sensors-collector/static/js/2.fcbee49c.chunk.js.map",
     "index.html": "/sensors-collector/index.html",
-    "precache-manifest.e04b82898991c59a271567ce3ee81842.js": "/sensors-collector/precache-manifest.e04b82898991c59a271567ce3ee81842.js",
+    "precache-manifest.614bceef13c318481ae13b3576478a0f.js": "/sensors-collector/precache-manifest.614bceef13c318481ae13b3576478a0f.js",
     "service-worker.js": "/sensors-collector/service-worker.js",
     "static/css/2.bcb0d36b.chunk.css.map": "/sensors-collector/static/css/2.bcb0d36b.chunk.css.map",
     "static/css/main.e4d3e429.chunk.css.map": "/sensors-collector/static/css/main.e4d3e429.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.bcb0d36b.chunk.css",
     "static/js/2.fcbee49c.chunk.js",
     "static/css/main.e4d3e429.chunk.css",
-    "static/js/main.6a01252c.chunk.js"
+    "static/js/main.f2620253.chunk.js"
   ]
 }
